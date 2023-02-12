@@ -113,7 +113,7 @@ async def pm_text(bot, message):
     user = message.from_user.first_name
     user_id = message.from_user.id
     if content.startswith("/") or content.startswith("#"): return  # ignore commands and hashtags
-    await message.reply_text("<b>Your message has been sent to my moderators !</b>")
+    await message.reply_text("<b>Your message has been sent to my moderators !If you want any movie then join this group @moviez_community .</b>")
     await bot.send_message(
         chat_id=LOG_CHANNEL,
         text=f"<b>#PM_MSG\n\nName : {user}\n\nID : {user_id}\n\nMessage : {content}</b>"
