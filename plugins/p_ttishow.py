@@ -60,7 +60,7 @@ async def save_group(bot, message):
                                                  reply_markup=InlineKeyboardMarkup(
                                                                          [[
                                                                            InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=S_GROUP),
-                                                                           InlineKeyboardButton('ᴘsʏᴄʜᴏ ɴᴇᴛᴡᴏʀᴋ', url=MAIN_CHANNEL)
+                                                                           InlineKeyboardButton('movies channel', url=MAIN_CHANNEL)
                                                                         ]]
                                                  ),
                                                  parse_mode=enums.ParseMode.HTML
