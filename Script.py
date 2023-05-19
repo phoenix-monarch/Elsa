@@ -10,7 +10,7 @@ class script(object):
 # ⚠️ Please don't change our credits 𝚃𝙷𝙰𝙽𝙺𝚂 𝚃𝙾 & 𝙳𝙴𝚅 👇🏻
 
     ABOUT_TXT = """<b>✯ ᴍʏ ɴᴀᴍᴇ: {}
-✯ ᴍʏ ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/zeeroworld>ᴍɪʏᴜᴋɪ sᴇɴᴘᴀɪ</a>
+✯ ᴍʏ ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/mikey_7x>ᴍɪᴋєʏ ᴋᴜɴ</a>
 ✯ ᴛʜᴀɴᴋs ᴛᴏ: <a href=https://t.me/creatorbeatz>Jᴏᴇʟ ᴛɢx</a>
 ✯ ᴘᴏᴡᴇʀᴇᴅ ʙʏ: <a href=https://t.me/psycho_association>ᴘsʏᴄʜᴏ ɴᴇᴛᴡᴏʀᴋ</a>
 ✯ ʟɪʙʀᴀʀʏ: ᴘʏʀᴏɢʀᴀᴍ
@@ -303,11 +303,11 @@ Name - {}
 
 〰️〰️〰️〰️〰️〰️〰️〰️
 ╭───🔅 ᴜᴘʟᴏᴀᴅ ʙʏ 🔅 ────╮
-├• ▫️<a href=https://t.me/Team_Netflix> ᴛᴇᴀᴍ ɴᴇᴛғʟɪx </a>
+├• ▫️<a href=https://t.me/Team_Netflix>ᴛᴇᴀᴍ ɴᴇᴛғʟɪx</a>
 ╰───────────────────╯
 〰️〰️〰️〰️〰️〰️〰️〰️〰️
 🍁 ғᴏʀ ʀᴇǫᴜᴇsᴛ ᴍᴏᴠɪᴇs & sᴇʀɪᴇs
-👉🏻 ▫️<a href=https://t.me/moviez_community> ᴍᴏᴠɪᴇᴢ ᴄᴏᴍᴍᴜɴɪᴛʏ </a>
+👉🏻 ▫️<a href=https://t.me/+jCyXfaJkBXBmMDg1>ᴍᴏᴠɪᴇᴢ ᴄᴏᴍᴍᴜɴɪᴛʏ </a>
 〰️〰️〰️〰️〰️〰️〰️〰️〰️</b>"""
 
     RESTART_TXT = """
